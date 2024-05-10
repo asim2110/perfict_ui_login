@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732570461170",
+    "project_id": "perfict-ui-for-login",
+    "storage_bucket": "perfict-ui-for-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732570461170:android:f68fe99dfe031457d0016b",
+        "android_client_info": {
+          "package_name": "com.example.perfict_ui_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgu1OXyLvNBQvOsCU8eHWgSqd_mWcSQfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
